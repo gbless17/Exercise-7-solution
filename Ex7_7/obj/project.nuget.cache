@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByBCTanD7zJsoY6M7UmtQyR7zX7DZoA7Qpw6eBncgb0vYJRKAqcKlzqPN3bdR+xjY8YNwPmm5+vsAoijGsbImw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GBLESS INC\\Documents\\C# Training class\\Exercise 7 soln\\Ex7_7\\Ex7_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GBLESS INC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
